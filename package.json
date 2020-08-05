@@ -1,0 +1,39 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "Your challenge this week is to build a command-line application to manage a company's employee database, using Node.js, Inquirer, and MySQL.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    
+    "migrate": "sqlite3 db/allemployees.db < db/schema.sql",
+"seed": "sqlite3 db/allemployees.db < db/seeds.sql",
+"db": "sqlite3 db/allemployees.db",
+"start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natka58/Employee-Tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natka58/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/natka58/Employee-Tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "express": "^4.17.1",
+    "inquirer": "^7.3.3",
+    "mysql2": "^2.1.0",
+    "node.js": "0.0.1-security",
+    "promise-mysql": "^4.1.3"
+  },
+  "devDependencies": {
+    "jest": "^26.2.2"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": []
+}
