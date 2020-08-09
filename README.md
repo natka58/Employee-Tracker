@@ -26,7 +26,7 @@
   Example and instrution of use: View departments, roles, employees, add departments, employees and update roles
 
  ## Demo
-  ![Screenshot](sample.gif)
+  ![Screenshot](./images/sample.gif)
   [Demo URL](https://drive.google.com/file/d/1aC9K2lMIG4Anoq2C6JmXETZ8tb0Q8XvR/view)
 
   ## Credits
