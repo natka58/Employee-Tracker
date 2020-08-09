@@ -27,6 +27,7 @@
 
  ## Demo
   ![Screenshot](./images/sample.gif)
+  
   [Demo URL](https://drive.google.com/file/d/1aC9K2lMIG4Anoq2C6JmXETZ8tb0Q8XvR/view)
 
   ## Credits
