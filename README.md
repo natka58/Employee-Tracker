@@ -19,7 +19,7 @@
   * [Questions](#questions)
   
    ## Installation
-     Steps to install the program are: Install Node.js; Inquirer, MySQL, express, console.table, run node server.js to start 
+     Steps to install the program are: Type `npm i` to install requirements. Run node server.js to start 
  
    
   ## Usage
@@ -27,7 +27,7 @@
 
  ## Demo
   ![Screenshot](sample.gif)
-  [Demo URL](https://drive.google.com/file/d/17FV0IKJgyV0Q9r4j0QvGNYKrjp8XyMiG/view)
+  [Demo URL](https://drive.google.com/file/d/1aC9K2lMIG4Anoq2C6JmXETZ8tb0Q8XvR/view)
 
   ## Credits
    Program collaborators and third party assets: No collaborators 
